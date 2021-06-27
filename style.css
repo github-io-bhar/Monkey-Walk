@@ -1,0 +1,19 @@
+body {
+  text-align: center;
+  background-color: #00E676;
+}
+#monkey {
+  height: 300px;
+  paddin: 5px;
+}
+p {
+text-align: center; 
+font-size: 70px; 
+} 
+button {
+  font-size: 50px;
+  width: 180px;
+  height: 90px;
+  background-color: green;
+  border-radius: 80px;
+}
